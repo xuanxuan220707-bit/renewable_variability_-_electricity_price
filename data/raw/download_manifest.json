@@ -1,0 +1,20 @@
+{
+  "dataset_page": "https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/nicholasjhana/energy-consumption-generation-prices-and-weather",
+  "checked_at_utc": "2026-09-30T14:46:29.220622+00:00",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "archive_bytes": 3996743,
+  "archive_sha256": "5448bc8906e5bc73a7c1b9ab92eadab82508b4c350cec30419a5745cda848c31",
+  "license": "CC0: Public Domain (Kaggle dataset metadata)",
+  "files": {
+    "energy_dataset.csv": {
+      "bytes": 6273009,
+      "sha256": "14cd13e020d87af0ab49db8e0f1e4d308320ec5b8d2dec23bab4d27c75c7733a"
+    },
+    "weather_features.csv": {
+      "bytes": 19918887,
+      "sha256": "3566c3c21179d4fc6691eec6d37a6cfe8fe6a4d9e097f95e4fda4a29dc683b18"
+    }
+  }
+}

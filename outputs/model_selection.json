@@ -1,0 +1,23 @@
+{
+  "selected_model": "Full boosting",
+  "criterion": "highest validation average precision among four forecasting candidates",
+  "threshold_selection": "maximum validation F1 on 0.01--0.99 grid",
+  "seed": 42,
+  "thresholds": {
+    "Calendar logistic": 0.12,
+    "Price + calendar": 0.35000000000000003,
+    "Full logistic": 0.29000000000000004,
+    "Full forest": 0.24000000000000002,
+    "Full boosting": 0.26,
+    "Boosting without weather": 0.27,
+    "Boosting without renewables": 0.24000000000000002
+  },
+  "settings": {
+    "logistic_C": 1.0,
+    "boosting_iterations": 160,
+    "boosting_learning_rate": 0.06,
+    "boosting_leaves": 15,
+    "forest_trees": 150,
+    "training_refit_after_validation": false
+  }
+}

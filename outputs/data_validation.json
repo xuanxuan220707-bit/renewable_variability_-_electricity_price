@@ -1,0 +1,39 @@
+{
+  "electricity_start_utc": "2014-12-31 23:00:00+00:00",
+  "electricity_end_utc": "2018-12-31 22:00:00+00:00",
+  "cities": [
+    "Barcelona",
+    "Bilbao",
+    "Madrid",
+    "Seville",
+    "Valencia"
+  ],
+  "weather_bounds": {
+    "temp": [
+      180,
+      340
+    ],
+    "wind_speed": [
+      0,
+      60
+    ],
+    "humidity": [
+      0,
+      100
+    ],
+    "clouds_all": [
+      0,
+      100
+    ],
+    "pressure": [
+      870,
+      1085
+    ]
+  },
+  "electricity_missing": {
+    "load_mw": 36,
+    "wind_mw": 18,
+    "solar_mw": 18,
+    "price_eur_mwh": 0
+  }
+}

@@ -1,0 +1,15 @@
+Check,Count
+Electricity rows,35064
+Weather rows,178396
+Duplicate city-hour rows,3076
+Missing load_mw,36
+Missing wind_mw,18
+Missing solar_mw,18
+Missing price_eur_mwh,0
+Out-of-range weather temp,0
+Out-of-range weather wind_speed,2
+Out-of-range weather humidity,0
+Out-of-range weather clouds_all,0
+Out-of-range weather pressure,58
+Hours with fewer than five observed cities,0
+Hours excluded from physical summaries,41
